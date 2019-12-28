@@ -1,0 +1,13 @@
+{
+  "name": "gatsby-interface-recipes",
+  "version": "0.0.1",
+  "description": "A Gatsby interface plugin to represent cooking recipes",
+  "main": "index.js",
+  "author": "rmp",
+  "license": "MIT",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-interface"
+  ]
+}
